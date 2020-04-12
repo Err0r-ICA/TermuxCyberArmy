@@ -1,0 +1,294 @@
+clear
+echo -e " \033[48;5;0;38;5;197m┏━╮╭━┓            \033[1;37m[\033[1;94m+\033[1;93m] LIST VULN WEBSITES
+ \033[48;5;0;38;5;197m┃┏┗┛┓┃       \033[1;35m * \033[1;95mAuthor     \033[1;31m: \033[1;92mITALIA \033[1;97mCYBER \033[1;91mARMY
+ \033[48;5;0;38;5;197m╰┓▋▋┏╯          \033[1;97mInstagram  \033[1;31m: \033[1;91m@termux_hacking
+\033[48;5;0;38;5;197m╭━┻╮╲┗━━━━╮╭╮    \033[1;92mDeveloper  \033[1;31m: \033[1;96mERR0R
+\033[48;5;0;38;5;197m┃▎▎┃╲╲╲╲╲╲┣━╯  
+\033[48;5;0;38;5;197m╰━┳┻▅╯╲╲╲╲┃    \033[1;35m* \033[1;92mStay Away From Existing Prohibitions \033[1;37m ^_^ 
+ \033[48;5;0;38;5;197m ╰━┳┓┏┳┓┏╯   \033[1;35m +\033[1;97m Appreciate The Author
+\033[48;5;0;38;5;197m    ┗┻┛┗┻┛    \033[1;95m * \033[1;91mNot so Difficult to Create \033[1;96m:-D"
+echo -e "\033[1;37m[\033[1;33m+\033[1;37m] HTML Extender
+\033[48;5;0;38;5;48m    http://bitsandpieces.co.za
+    http://cblandscapes.co.za
+    http://windmillsandporcupines.co.za
+    http://scnc.co.za
+    http://contsol.co.za
+    http://consultec.co.za
+    http://colourfactory.co.za
+    http://ayk.co.za
+    http://daretogowildafrica.co.za
+    http://floralandfresh.co.za
+    http://foodconsult.co.za
+    http://itsengineering.co.za
+    http://hybriddevelopments.co.za
+    http://holotropicbreathwork.co.za
+    http://hanover-cs.co.za
+    http://handj.co.za
+    http://lwrm.co.za
+    http://lubbestrust.co.za
+    http://lpenterprises.co.za
+    http://kwalitycommodities.co.za
+    http://mestern.co.za
+    http://megro.co.za
+    http://bitpc.co.za
+    http://butterflowers.co.za
+    http://beeit.co.za
+    http://esfml.com
+    http://bee-it.co.za
+    http://mc3qs.com
+    http://marjoriebresler.com
+    http://naturaleyeimages.com
+    http://my-resume.biz
+    http://mpark.co.za
+    http://montdestin.com
+    http://africa-one.co.za
+    http://ads247.co.za
+    http://accelerate-kids.co.za
+    http://8x8.co.za
+    http://aaglcapetown2013.org.za
+    http://allpaint.co.za
+    http://andrewswebcorner.co.za
+    http://applebyguesthouse.com
+    http://atlanticphysio.co.za
+    http://page31.co.za
+    http://vaigaidigitals.com
+    http://systemshouse.co.za
+    http://www.studentsonline.co.za
+    http://lucaniphysio.co.za
+    http://www.onboardpublications.co.za
+    http://www.oilandclay.co.za
+    http://www.aquafitness.za.net
+    http://www.helderbergit.co.za
+    http://www.pipelinetape.co.za
+    http://www.drcrsaexpress.co.za
+    http://officeelf.co.za
+    http://troop-1539.org
+    http://happy.mikikk.co.jp
+    http://www.alfunctiondesigns.co.za
+    http://mix007.co.za
+    http://spyroom.co.za
+    http://sportspod.co.za
+    http://southernafricablog.com
+    http://stand66.com
+    http://tapifare.com
+    http://tankertech.co.za
+    http://tcnig.co.za
+    http://tcmgroup.co.za
+    http://tressor.co.za
+    http://trafficam.co.za
+    http://tuthukani.co.za
+    http://nyarhi.co.za
+    http://digishop.co.za
+    http://elinemsa.co.za
+    http://disucctv.co.za
+    http://www.cai.co.za
+    http://tirupurjobs.net
+    http://inlislitev3.perpusnas.go.id
+    http://clcooling.co.za
+    http://sublimeconfectionery.co.za
+    http://gogreenplumbing.co.za
+    http://golfbuzz.co.za
+    http://grupo-cma.com
+    http://inkspot.co.za
+    http://kgarebana.co.za
+    http://ittrader.co.za
+    http://hellomobile.mobi
+    http://homebuzz.co.za
+    http://gordonhoward.co.za
+    http://democonstruction.co.za
+    http://chasingfantasia.co.za
+    http://litehouse.co.za
+    http://ldata.co.za
+    http://lunique.co.za
+    http://chillibitez.co.za
+    http://cmweb.co.za
+    http://essentialtours.com
+    http://entitledvip.com
+    http://frankadesign.com
+    http://forget-me-not.co.za
+    http://findpersonnel.co.za
+    http://everythingdating.co.za
+    http://hq.prospec.co.th
+    http://branch.prospec.co.th
+    http://tj.allbest.org
+    http://www.rabachino.com
+    http://www.bbba-grh.com
+    http://gruppomediacom.com
+    http://www.ratiss.org
+    http://www.560560.ru
+    http://www.50-50-50.ru
+    http://office.ratiss.org
+    http://560560.ru
+    http://50-50-50.ru
+    http://itsallgoodforyou.com
+    http://tirupurjobs.net
+    http://apparelworld.org
+    http://cht.e-bestis.com.tw
+    http://apbw.e-bestis.com.tw
+    http://doacoes.fussesp.sp.gov.br
+    http://www.6y555.com
+    http://www.nuclear-experts.net
+    http://www.anecra.pt
+    http://209.60.104.53
+    http://baza.ds.org.rs
+    http://oulitnet.co.za
+    http://liteoptec.co.za
+    http://0739.gwytk.com
+    http://hr.systematixshares.com
+    http://leader.gwytk.com
+    http://www.rabachino.com
+    http://b2b.modelberg.it
+    http://hengyue-media.com
+    http://webphone.zayhi.com
+    http://koiis.co.kr
+    http://223.255.137.119
+    http://sys.betafac.com
+    http://gateway.net.co
+    http://hq.prospec.co.th
+    http://branch.prospec.co.th
+    http://rso.gie-vso.fr
+    http://112acil.com
+    http://magazam.net
+    http://happy.mikikk.co.jp
+    http://ns1.112acil.com
+    http://shop.magazam.net
+    http://www.atakan.com.tr
+    http://www.magazam.net
+    http://ns1.atakan.com.tr
+    http://ns1.magazam.net
+    http://ns1.vfbayi.com
+    http://ns1.evdeiste.com
+    http://ptdel.com
+    http://majmudars.com
+    http://fmetiquetas.com
+    http://lacre.pt
+    http://www.anecra.pt
+    http://saharamutual.com
+    http://myownemailer.com
+    http://sphinxillustrations.com
+    http://www.sphinxanimations.com
+    http://vzcx.idasoft.es
+    http://213.96.91.26
+    http://adr.soluzionimediacom.com
+    http://asianapoli.soluzionimediacom.com
+    http://call-center.gruppomediacom.it
+    http://callcenter.gruppomediacom.it
+    http://gancia.soluzionimediacom.com
+    http://gruppomediacom.com
+    http://gruppomediacom.it
+    http://hr.soluzionimediacom.com
+    http://job.gruppomediacom.it
+    http://www.correiodoc.correiodecarajas.com.br
+    http://www.correiodecarajas.com.br
+    http://www.enoticialagodetucurui.com
+    http://hauntedreview.com
+    http://branch.prospec.co.th
+    http://gx.xiongsu.cn
+    http://hq.prospec.co.th
+    http://wop.zayhi.com
+    http://www.tciil.co.in
+    http://www.ldgb.net
+    http://standards.co.kr
+    http://koiis.co.kr
+    http://xdoors.astor.it
+    http://troop-1539.org
+    http://familien-poulsen.dk
+    http://orders.southeasternfood.com
+    http://leader.gwytk.com
+    http://0739.gwytk.com
+    http://fmetiquetas.com
+    http://oulitnet.co.za
+    http://epssa.co.za
+    http://loushifashion.com
+    http://powerm.cn
+    http://60.18.129.36
+    http://cszhitu.com
+    http://fxlnhly.com
+    http://info.yeyadu.cn
+    http://electronicculture.ru
+    http://lnhuaxun.com
+    http://web.yeyadu.cn
+    http://www.yeyadu.cn
+    http://westmillusa.com
+    http://adtime.eugenio.com.br
+    http://adtrafficweb.eugenio.com.br
+    http://adtrafficweb.grupoeugenio.com.br
+    http://offertelavoro.gruppomediacom.it
+    http://recupero-crediti.gruppomediacom.it
+    http://recuperocrediti.gruppomediacom.it
+    http://ricerchedimercato.gruppomediacom.it
+    http://www.calciomercatonapoli.info
+    http://www.gruppomediacom.com
+    http://www.maestrodascia.eu
+    http://www.mediacom.biz
+    http://maestrodascia.eu
+    http://mediacom.biz
+    http://tciglobal.com
+    http://0731.zgxxk.net
+    http://0745.gwytk.com
+    http://bestilling.utdanningsdirektoratet.no
+    http://www.ldgb.net
+    http://www.zgxxk.net
+    http://www.567888.pw
+    http://www.danahias.at
+    http://www.wsdscu.org
+    http://bestilling.udir.no
+    http://scm.icams.co.kr
+    http://158.36.153.158
+    http://tirupurjobs.net
+    http://www.apparelworld.org
+    http://www.tirupurjobs.net
+    http://apparelworld.org
+    http://gma2t.wlannet.net
+    http://praso.wlannet.net
+    http://smsget.zayhi.com
+    http://tctnh.wlannet.net
+    http://webphone.zayhi.com
+    http://wop.zayhi.com
+    http://isu.allbest.org
+    http://iept.allbest.org
+    http://cucbridals.com
+    http://miracletouch.com.tw
+    http://myteam4u.com
+    http://imode.e-bestis.com.tw
+    http://test.allbest.org
+    http://211.23.248.40
+    http://gx.xiongsu.cn
+    http://cheeshin.com.tw
+    http://admats.concerts.com
+    http://my.smser.eu
+    http://www.lawrenceting.com
+    http://dike.dpt.go.th
+    http://www.elcsfj.gov.cn
+    http://documents.co.st-lucie.fl.us
+    http://www.ybsds.gov.cn
+    http://rsj.xxz.gov.cn
+    http://www.xzll.gov.cn
+    http://www.xmfg.gov.cn
+    http://zzx.wlcbsgs.gov.cn
+    http://www.librogondwana.com.ar
+    http://www.ingacarrasco.com.ar
+    http://www.salsadella.com.ar
+    http://www.bgmgroup.cn
+    http://ssc.rrp.kr"
+echo ""
+echo -e "\033[1;37m[\033[1;33m+\033[1;37m]\033[1;31m TYPE 'E' TO EXIT\033[1;37m"
+read -p "[#]=> " ERR0R
+
+case $ERR0R in
+E)
+clear
+echo -e "\033[1;37mThank You For Using This Tools ^_^"
+exit
+;;
+e)
+clear
+echo -e "\033[1;37mThank You For Using This Tools ^_^"
+exit
+;;
+*)
+echo -e "[#]=> \33[31;1mWrong Input"
+sleep 0.4
+bash Vuln.sh
+;;
+esac

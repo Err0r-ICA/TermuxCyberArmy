@@ -1,0 +1,93 @@
+clear
+blue='\e[1;94m'
+green='\e[1;92m'
+purple='\e[1;95m'
+cyan='\e[1;96m'
+red='\e[1;91m'
+yellow='\e[1;93m'
+lgreen='\e[1;94m'
+brown='\e[1;93m'
+white='\e[1;97m'
+w='\e[1;97m'         #putih
+g='\033[1;92m'     #hijau
+r='\033[1;91m'     #merah
+b='\033[1;94m'     #biru
+uline='\e[1;4m'    #bergarisbawah
+c='\033[1;96m'     #cyan
+red='\033[1;91m'
+k='\033[1;93m'     #kuning
+u='\033[1;95m'     #ungu
+re='\033[0m'       #putih
+bg='\033[45;91m'
+bg2='\033[46;91m'
+bg3='\033[47;91m'
+echo
+echo $r"                   .-*      *-.  "
+echo $u"                  /            \   "
+echo $c"                 |     r00t     |  "
+echo $k"                 |,  .-.  .-.  ,|  "
+echo $re"                 | )(__/  \__)( | "
+echo $g"                 |/     /\     \| "
+echo $b"       (@_       (_     ^^     _) "
+echo $r"  _     ) \_______\__|IIIIII|__/__________________________ "
+echo $u" (_)*ERR0R*{}<_____|-\IIIIII/-|_B_R_U_T_E__F_O_R_C_E______> "
+echo $k"        )_/        \          / "
+echo $c"       (@           *--------* "
+echo
+echo $bg$k "[Hacking All Sosmed v1.0 Author: @AsecC|~|ERR0R Team: ITALIA CYBER ARMY]"
+echo
+trap ctrl_c INT
+ctrl_c() {
+clear
+echo $b " [*] (Ctrl + C ) Detected, Trying To Exit ... "
+echo $g " [*] Thanks"
+sleep 1
+echo $c " [*] May be useful "
+echo $k " [*] By AsecC & ERR0R :)..."
+sleep 1
+exit
+}
+lagi=1
+while [ $lagi -lt 14 ];
+do
+echo $re
+echo $k "["$r"01"$k"] "$re"Facebook"
+echo $k "["$r"02"$k"] "$re"Instagram"
+echo $k "["$r"03"$k"] "$re"Twitter"
+echo $k "["$r"04"$k"] "$re"Gmail"
+echo $k "["$r"05"$k"] "$re"Yahoo"
+echo $k "["$r"06"$k"] "$re"Hotmail"
+echo $k "["$r"00"$k"] "$re"EXIT"
+echo
+echo $c
+read -p "[+] Enter Choice : " num;
+case $num in
+01) cd lib
+python .1.py
+;;
+02) cd lib
+python2 .2.py
+;;
+03) cd lib
+python2 .3.py
+;;
+04) cd lib
+python2 .4.py
+;;
+05) cd lib
+python2 .5.py
+;;
+06) cd lib
+python2 .6.py
+;;
+00) echo $k " [*] Created By : AsecC - ERR0R"
+sleep 1
+echo $c " [*] Thankk You"
+sleep 1
+exit
+;;
+*) echo $r "[!] The option you entered is not available!!! "
+sleep 2
+esac
+done
+done
