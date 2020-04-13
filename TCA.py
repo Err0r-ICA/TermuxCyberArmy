@@ -100,7 +100,7 @@ elif num == 2:
 	print '\n\033[1;37mThank You For Using This Tools ^_^'
 elif num == 3:
 	tik()
-	os.system ('bash babi_lu.sh')
+	os.system ('cd Avoid ; bash babi_lu.sh')
 elif num == 4:
 	os.system('xdg-open https://www.instagram.com/termux_hacking/?hl=it')
 elif num == 0:
