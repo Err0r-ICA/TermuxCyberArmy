@@ -15,7 +15,7 @@ python2 TCA
 
 ### My Accounts
 
-* [TELEGRAM](https://t.me/termuxxhacking)
+* [TELEGRAM](https://t.me/kalit3rmux)
 
 * [FACEBOOK](https://www.facebook.com/termuxxhacking)
 
