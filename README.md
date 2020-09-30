@@ -1,7 +1,5 @@
 ![logo](https://i.postimg.cc/pXDWHY6D/Screenshot-20200930-062011-Chrome.jpg)
 
-# Termux Cyber Army
-
 ### Installing TermuxCyberAmy in Termux
 ```
 apt update && apt upgrade
