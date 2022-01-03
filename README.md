@@ -1,6 +1,6 @@
 ![logo](https://i.postimg.cc/pXDWHY6D/Screenshot-20200930-062011-Chrome.jpg)
 
-### Installing TermuxCyberAmy in Termux
+## 💿 Installation 💿
 ```
 apt update && apt upgrade
 apt install git
@@ -19,10 +19,10 @@ python2 TCA
 <!--  <img src="https://github-readme-stats.anuraghazra1.vercel.app/api/top-langs/?username=Err0r-ICA&hide=ruby,perl&hide_border=true" />  -->
 </p>
 
-## Screenshot 
+## 📸 Screenshot 📸
 ![Screenshot](https://i.postimg.cc/5bm2Jt5X/Screenshot-20200425-140723-Termux.jpg) 
 
-### My Accounts
+### 👤 My Accounts 👤
 
 * [TELEGRAM](https://t.me/kalit3rmux)
 
