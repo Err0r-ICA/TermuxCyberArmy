@@ -11,7 +11,7 @@ python2 TCA
 
 ### Spotify Playing 🎧
 
-![(https://spotify-github-profile.vercel.app/api/view.svg?uid=w2us4natw8j68auq9sv2t7xs5&redirect=true][https://spotify-github-profile.vercel.app/api/view.svg?uid=w2us4natw8j68auq9sv2t7xs5&cover_image=true&theme=novatorem&bar_color_cover=false&bar_color=00ff00)
+[![spotify-github-profile](https://spotify-github-profile.vercel.app/api/view?uid=w2us4natw8j68auq9sv2t7xs5&cover_image=true&theme=novatorem&bar_color_cover=true&bar_color=00ff00)](https://spotify-github-profile.vercel.app/api/view?uid=w2us4natw8j68auq9sv2t7xs5&redirect=true) 
  
 <p align="center">
   <img alt="Err0r-ICA' Github Stats" src="https://github-readme-stats.vercel.app/api?username=Err0r-ICA&show_icons=true&include_all_commits=true&hide_border=true" />
