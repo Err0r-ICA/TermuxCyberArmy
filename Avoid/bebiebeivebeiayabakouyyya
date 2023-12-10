@@ -36,10 +36,10 @@ cmatrix
 sleep 3
 exit
 }
-xdg-open https://www.instagram.com/termux_hacking/?hl=it
+xdg-open https://t.me/Cyb3r_Drag0nz
 read -p "╠═▶    :" link1;
 echo -e "╚═╗    :\033[1;32mSHORTLINK WORKED, CHECK THE OUTPUT BELOW"
 echo -e "  \033[1;33m▼\033[0m"
 curl http://tinyurl.com/api-create.php?url=$link1
 echo""
-xdg-open https://t.me/termuxxhacking
+xdg-open https://t.me/Cyb3r_Drag0nz
