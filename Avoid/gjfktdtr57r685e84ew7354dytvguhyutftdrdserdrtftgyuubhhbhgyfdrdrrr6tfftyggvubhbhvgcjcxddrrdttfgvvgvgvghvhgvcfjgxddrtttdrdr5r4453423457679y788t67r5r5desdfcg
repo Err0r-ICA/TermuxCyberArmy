@@ -116,7 +116,7 @@ echo -e $b " [*] (Ctrl + C ) Detected, Trying To Exit ... "
 echo -e $g " [*] Thanks"
 sleep 1
 echo -e $c " [*] BE CAREFUL. "
-echo -e $k " [*] By ITALIA CYBER ARMY :)..."
+echo -e $k " [*] By CYB3R DRAG0NZ"
 sleep 1
 exit
 }
