@@ -1,4 +1,4 @@
-![logo](https://i.postimg.cc/pXDWHY6D/Screenshot-20200930-062011-Chrome.jpg)
+![logo](https://i.postimg.cc/xCkjVwLD/OIG3-t8bf-O0ft.jpg)
 
 ## 💿 Installation 💿
 ```
@@ -24,11 +24,8 @@ python2 TCA
 
 ### 👤 My Accounts 👤
 
-* [TELEGRAM](https://t.me/Cyb3r_Drag0nz)
+* [TELEGRAM](https://t.me/hacking1337stuff)
 
-* [FACEBOOK](https://m.facebook.com/profile.php/?id=61551681886488)
-
-* [INSTAGRAM](https://instagram.com/termux_hacking)
 
 <p align="center">
 <a href="https://github.com/Err0r-ICA/followers"><img title="Followers" src="https://img.shields.io/github/followers/lovehacker404?color=blue&style=flat-square"></a>
