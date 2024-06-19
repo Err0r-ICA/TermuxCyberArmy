@@ -1,6 +1,6 @@
 ![logo](https://i.postimg.cc/xCkjVwLD/OIG3-t8bf-O0ft.jpg)
 
-## Update
+## Update 19/06/2024
 <p>Login form has been removed</p>
 
 ## 💿 Installation 💿
