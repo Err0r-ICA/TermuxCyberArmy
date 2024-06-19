@@ -1,5 +1,8 @@
 ![logo](https://i.postimg.cc/xCkjVwLD/OIG3-t8bf-O0ft.jpg)
 
+##Update
+<p>Login form has been removed</p>
+
 ## 💿 Installation 💿
 ```
 apt update && apt upgrade
