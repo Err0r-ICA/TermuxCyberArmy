@@ -27,7 +27,7 @@ python2 TCA
 
 ### 👤 My Accounts 👤
 
-* [TELEGRAM](https://t.me/hacking1337stuff)
+* [TELEGRAM](https://t.me/DefacErr)
 
 
 <p align="center">
